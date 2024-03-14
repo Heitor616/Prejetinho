@@ -1,0 +1,12 @@
+.Logo{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.informação{
+list-style: none;
+display: flex;
+flex-direction: row;
+gap: 50px;
+}
