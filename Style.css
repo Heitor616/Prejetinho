@@ -1,0 +1,21 @@
+.Logo{
+    background-color: rgb(207, 124, 22);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.informação{
+list-style: none;
+display: flex;
+flex-direction: row;
+gap: 50px;
+}
+
+.Violinos{
+    background-color: rgb(160, 51, 0);
+    width: 500px;
+    height: 500px;
+}
+.Menu{
+    display: flex;
+}
