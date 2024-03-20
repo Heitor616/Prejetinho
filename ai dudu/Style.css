@@ -1,0 +1,50 @@
+.Logo{
+    background-color: rgb(207, 124, 22);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.informação{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.Menu{
+    display: flex;
+
+}
+
+.Violinos{
+    background-color: rgb(160, 51, 0);
+    width: 400px;
+    height: 450px;
+    font-size: 30px;
+    gap: 15px;
+    list-style: none;
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.Aba2{
+    background-color: darkcyan;
+    width: 400px;
+    height: 450px;
+    margin-top: 30px;
+}
+.Preços{
+    font-size: 30px;
+    gap: 15px;
+    list-style: none;
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+
+    
+    
