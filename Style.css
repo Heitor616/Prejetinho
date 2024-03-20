@@ -5,17 +5,49 @@
     align-items: center;
 }
 .informação{
-list-style: none;
-display: flex;
-flex-direction: row;
-gap: 50px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.Menu{
+    display: flex;
+
 }
 
 .Violinos{
     background-color: rgb(160, 51, 0);
-    width: 500px;
-    height: 500px;
-}
-.Menu{
+    width: 200px;
+    height: 450px;
+    font-size: 30px;
+    gap: 15px;
+    list-style: none;
+    flex-direction: column;
+    justify-content: center;
     display: flex;
+    align-items: center;
+}
+
+.Aba2{
+    background-color: darkcyan;
+    width: 250px;
+    height: 450px;
+    margin-top: 30px;
+}
+.Preços{
+    font-size: 30px;
+    gap: 15px;
+    list-style: none;
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.info{
+    font-size: 30px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    font-style: italic;
 }
