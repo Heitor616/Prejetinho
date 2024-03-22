@@ -50,4 +50,31 @@
     display: flex;
     flex-direction: column;
     font-style: italic;
+    padding-left: 60px;
+    padding-right: 60px;
+    text-align: center;
+}
+.imagens{
+    background-color: brown;
+}
+.Stradivarius{
+    font-style: italic;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: large;
+}
+.case{
+    font-style: italic;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: large;
+}
+.cordas{
+    font-style: italic;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: large;
 }
